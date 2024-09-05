@@ -2,28 +2,28 @@
 
   | Lp | numer_koszulki| pozycja | imie_nazwisko    | Wiek | szansa_transfer |
   | -- | :-----:       | :---:   | ---------------- | :---:| :--------------:|
-  | 1  |  1            | BR      | Thibaut Courtois | 32   | 0               |
-  | 2  | 13            | BR      | Andriy Lunin     | 25   | 2               |
-  | 3  | 3             | O       | Eder Militao     | 26   | 1               |
-  | 4  | 2             | O       | Dani Carvajal    | 32   | 0               |
-  | 5  | 20            | O       | Fran Garcia      | 25   | 3               |
-  | 6  | 8             | P       | Fede Valverde    | 26   | 0               |
-  | 7  | 5             | P       | Jude Bellingham  | 21   | 0               |
-  | 8  | 10            | P       | Luka Modric      | 38   | 3               |
-  | 9  | 21            | A       | Brahim Diaz      | 25   | 2               |
-  | 10 | 16            | A       | Endrick          | 158  | 2               |
+  | 1  |  1            | BR      | Thibaut Courtois | 28   | 0               |
+  | 2  | 13            | BR      | Andriy Lunin     | 21   | 2               |
+  | 3  | 4             | O       | Serio Ramos      | 34   | 0               |
+  | 4  | 6             | O       | Nacho Fernandez  | 30   | 2               |
+  | 5  | 3             | O       | Eder Militao     | 22   | 3               |
+  | 6  | 8             | P       | Toni Kroos       | 30   | 1               |
+  | 7  | 15            | P       | Fede Valverde    | 22   | 0               |
+  | 8  | 14            | P       | Casemiro         | 28   | 2               |
+  | 9  | 9             | N       | Karim Benzema    | 32   | 1               |
+  | 10 | 18            | N       | Luka Jovic       | 22   | 3               |
 
 #### table.dane
 
 | Lp | numer_koszulki| kraj_pochodzenia | reprezentant_kraju| wartosc_rynkowa | kwota_transferu | poprzedni_klub_kraj |
 | -- | :-----:       | ---              | :----------------:| :---:           | :--------------:| ---                 |
-| 1  |  1            | Belgia           |                   | 28              | 35              | Anglia              |
-| 2  | 13            | Ukraina          | x                 | 25              | 9               | Ukraina             |
-| 3  | 3             | Brazylia         | x                 | 60              | 50              | Portugalia          |
-| 4  | 2             | Hiszpania        | x                 | 12              | 0               | wychowanek          |
-| 5  | 20            | Hiszpania        | x                 | 15              | 0               | wychowanek          |
-| 6  | 8             | Urugwaj          | x                 | 120             | 5               | Urugwaj             |
-| 7  | 5             | Anglia           | x                 | 180             | 103             | Niemcy              |
-| 8  | 10            | Chorwacja        | x                 | 6               | 35              | Anglia              |
-| 9  | 21            | Maroko           | x                 | 40              | 17              | Anglia              |
-| 10 | 16            | Brazylia         | x                 | 60              | 48              | Brazylia            |
+| 1  |  1            | Belgia           | x                 | 75              | 35              | Anglia              |
+| 2  | 13            | Ukraina          | x                 | 3               | 9               | Ukraina             |
+| 3  | 4             | Hiszpania        | x                 | 14              | 27              | Hiszpania           |
+| 4  | 6             | Hiszpania        |                   | 10              | 0               | wychowanek          |
+| 5  | 3             | Brazylia         | x                 | 40              | 50              | Portugalia          |
+| 6  | 8             | Niemcy           | x                 | 65              | 25              | Niemcy              |
+| 7  | 15            | Urugwaj          | x                 | 70              | 0               | wychowanek          |
+| 8  | 14            | Brazylia         | x                 | 50              | 0               | wychowanek          |
+| 9  | 9             | Francja          |                   | 25              | 35              | Francja             |
+| 10 | 18            | Serbia           | x                 | 22              | 63              | Niemcy              |
