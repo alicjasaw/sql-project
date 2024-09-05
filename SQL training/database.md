@@ -1,6 +1,6 @@
 #### table.team
 
-  | Lp | numer_koszulki| pozycja | imie_nazwisko    | Wiek | szansa_transfer |
+  | Lp | numer_koszulki| pozycja | imie_nazwisko    | wiek | szansa_transfer |
   | -- | :-----:       | :---:   | ---------------- | :---:| :--------------:|
   | 1  |  1            | BR      | Thibaut Courtois | 28   | 0               |
   | 2  | 13            | BR      | Andriy Lunin     | 21   | 2               |
