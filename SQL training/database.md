@@ -4,7 +4,7 @@
   | -- | :-----:       | :---:   | ---------------- | :---:| :--------------:|
   | 1  |  1            | BR      | Thibaut Courtois | 28   | 0               |
   | 2  | 13            | BR      | Andriy Lunin     | 21   | 2               |
-  | 3  | 4             | O       | Serio Ramos      | 34   | 0               |
+  | 3  | 4             | O       | Sergio Ramos      | 34   | 0               |
   | 4  | 6             | O       | Nacho Fernandez  | 30   | 2               |
   | 5  | 3             | O       | Eder Militao     | 22   | 3               |
   | 6  | 8             | P       | Toni Kroos       | 30   | 1               |
