@@ -1,4 +1,4 @@
-#### table.team
+#### team
 
   | No | player_number | role    | player_name      | age  | transfer_chance |
   | -- | :-----:       | :---:   | ---------------- | :---:| :--------------:|
@@ -13,7 +13,7 @@
   | 9  | 9             | F       | Karim Benzema    | 32   | 1               |
   | 10 | 18            | F       | Luka Jovic       | 22   | 3               |
 
-#### table.dane
+#### data
 
 | Lp | player_number | country | country_representatives| market_value | transfer_amount | previous_club_country |
 | -- | :-----:       | ---     | :----------------:     | :---:        | :--------------:| ---                   |
