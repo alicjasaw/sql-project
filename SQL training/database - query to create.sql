@@ -1,14 +1,14 @@
-// create table.team
-CREATE TABLE table.team (
-    player_number int FOREIGN KEY REFERENCES table.dane(player_number),
+// create table named team
+CREATE TABLE team (
+    player_number int FOREIGN KEY REFERENCES data(player_number),
     role varchar(5),
     player_name varchar (35) PRIMARY KEY,
     age int,
     transfer_chance int
 );
 
-// create table.dane
-CREATE TABLE table.dane (
+// create table named data
+CREATE TABLE data (
     player_number int PRIMARY KEY,
     country varchar(25),
     country_representatives varchar(1),
@@ -17,8 +17,8 @@ CREATE TABLE table.dane (
     previous_club_country varchar(25)
 );
 
-// adding data to table.team
-INSERT into table.team
+// adding data to table team
+INSERT into team
 VALUES
 ('1','GK','Thibaut Courtois', '28', '0'),
 ('13','GK','Andriy Lunin', '21', '2'),
@@ -31,8 +31,8 @@ VALUES
 ('9','F','Karim Benzema', '32', '1'),
 ('18','F','Luka Jovic', '22', '3');
 
-// adding data to table.dane
-INSERT INTO table.dane
+// adding data to table data
+INSERT INTO data
 VALUES
 ('1', 'Belgium', 'x', '75', '35', 'England'),
 ('13', 'Ukraine', 'x', '3', '9', 'Ukraine'),
