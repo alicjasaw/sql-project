@@ -3,7 +3,6 @@ SELECT player_name, age
 FROM team
 ORDER BY age
 
-
 // 2. Present the age structure for each role DESC (role, player name, age);
 SELECT role, player_name, age
 FROM team
